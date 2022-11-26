@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto&family=Source+Code+Pro&display=swap');
+
+body {
+    background-image: url('https://www.ajsnetworking.com/wp-content/uploads/2021/01/datacenter-scaled.jpeg');
+    scroll-behavior: smooth;
+
+}
+.main-title {
+    color: #ffffff;
+    font-family: Poppins;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
